@@ -1,12 +1,12 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/remoteok-cli/releases/download/v0.1.7/remoteok-cli_0.1.7_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/remoteok-cli/releases/download/v0.1.8/remoteok-cli_0.1.8_windows_amd64.zip",
             "bin": [
                 "remoteok.exe"
             ],
-            "hash": "3cbed778fe556dbc550e936f78db01a684710172bf8b64b6ab60c21e2fb000f0"
+            "hash": "7bee5caa1fba0ba0fa5da14074dac95903204bf12c3f2c806b7655884bdfe05e"
         }
     }
 }
